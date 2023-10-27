@@ -1,0 +1,27 @@
+{
+  "name": "elcom",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@rigo-m/react-split-text": "^1.0.1",
+    "bootstrap": "^5.3.1",
+    "eslint": "8.46.0",
+    "eslint-config-next": "13.4.12",
+    "next": "13.4.12",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.8.0",
+    "react-countup": "^6.4.2",
+    "react-dom": "18.2.0",
+    "react-select": "^5.7.4",
+    "react-slick": "^0.29.0",
+    "react-tooltip": "^5.21.1",
+    "slick-carousel": "^1.8.1",
+    "wow.js": "^1.2.2"
+  }
+}
