@@ -1,0 +1,15 @@
+{
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/_app": "pages/_app.js",
+  "/aboutus": "pages/aboutus.html",
+  "/bloglanding": "pages/bloglanding.html",
+  "/api/hello": "pages/api/hello.js",
+  "/": "pages/index.html",
+  "/csrpolicy": "pages/csrpolicy.html",
+  "/certification": "pages/certification.html",
+  "/event": "pages/event.html",
+  "/infrastructure": "pages/infrastructure.html",
+  "/newslanding": "pages/newslanding.html",
+  "/404": "pages/404.html"
+}
